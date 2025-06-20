@@ -5,3 +5,5 @@ passlib[bcrypt]
 python-jose
 requests
 motor
+pymongo==4.6.3
+dnspython>=2.3.0
